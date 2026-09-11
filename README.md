@@ -4,8 +4,6 @@
 
 🔭 I’m currently working on **AWS DevOps and Cloud Infrastructure projects** using Kubernetes, Terraform, CI/CD and monitoring.
 
-👯 I’m looking to collaborate on **AWS, DevOps, Kubernetes, CI/CD and Cloud Automation projects**.
-
 ⚡ Fun fact: **I enjoy troubleshooting infrastructure issues and automating manual DevOps workflows.**
 
 ---
